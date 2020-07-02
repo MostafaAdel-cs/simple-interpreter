@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1592240580 source:c:\users\anafa\onedrive\desktop\interpreterfordatastructure\interpreter2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SomeStructure.h"
+
+1592245042 c:\users\anafa\onedrive\desktop\interpreterfordatastructure\interpreter2.0\somestructure.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1592240580 source:c:\users\me\desktop\backup\interpreter2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SomeStructure.h"
+
+1592245042 c:\users\me\desktop\backup\interpreter2.1\somestructure.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1592298400 source:c:\users\me\desktop\current_working\interpreter2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SomeStructure.h"
+
+1592298329 c:\users\me\desktop\current_working\interpreter2.1\somestructure.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1592304906 source:c:\users\anafa\onedrive\desktop\interpreter2.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SomeStructure.h"
+
+1592306611 c:\users\anafa\onedrive\desktop\interpreter2.3\somestructure.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1592332819 source:c:\users\anafa\onedrive\desktop\interpreterfinal v1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SomeStructure.h"
+	"validation.h"
+
+1592308288 c:\users\anafa\onedrive\desktop\interpreterfinal v1.0\somestructure.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1592333604 c:\users\anafa\onedrive\desktop\interpreterfinal v1.0\validation.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"doubleLinkedList.h"
+
+1592332751 c:\users\anafa\onedrive\desktop\interpreterfinal v1.0\doublelinkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
